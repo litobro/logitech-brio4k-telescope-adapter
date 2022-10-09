@@ -1,0 +1,1 @@
+# logitech-brio4k-telescope-adapter
