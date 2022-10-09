@@ -19,4 +19,5 @@ As the IR filter is removed with the lens assembly, I use a cheap UV IR cut filt
 
 ## License
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
 This work is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/). You may review the license in its entirety at [LICENSE.txt](LICENSE.txt)
