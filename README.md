@@ -8,6 +8,8 @@ I printed this file on an Elegoo Mars 3 using ABS-Like resin. The threads are fa
 
 Alternatively, you can print the file in PLA or PETG, the filament is likely soft enough that the threads may be cut through and function using a metal eyepiece. 
 
+Supports are required in both printing methods. I printed wth the back (inside) of the mount towards the buildplate and used auto-supports from CURA and Lychee.
+
 ## Assembly Instructions
 The rework instructions from [Kurokesu](https://www.kurokesu.com/main/2017/09/18/logitech-brio-4k-webcam-rework-instructions/) can be followed for the teardown portion. Some light desoldering is required. I found the use of a hot air rework tool useful for removing the LED though it may be desoldered by hand. 
 
