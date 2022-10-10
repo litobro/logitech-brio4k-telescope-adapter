@@ -19,6 +19,15 @@ The body is a new front face that uses the original two screws to attach to the 
 
 As the IR filter is removed with the lens assembly, I use a cheap UV IR cut filter from [SVBony](https://www.amazon.ca/gp/product/B07RP5844G) to provide both structure and light filtration. 
 
+## Sample Images
+Sample images from my first outing with the mount on an 8" dobsonian reflector. The photos were stacked of the best 40% from 1000 frames. Photos taken using [SharpCap](https://www.sharpcap.co.uk/) and processed with [AutoStakkert!](https://www.autostakkert.com/). 
+
+### Jupiter
+![Jupiter](jupiter.png)
+
+### Saturn
+![Saturn](saturn.png)
+
 ## License
 ![license](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
